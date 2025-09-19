@@ -239,8 +239,7 @@ plt.show()
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-       <img width="724" height="606" alt="image" src="https://github.com/user-attachments/assets/ecc4c76b-67c1-406f-b0ce-4037a0a1ed26" />
+<img width="724" height="606" alt="image" src="https://github.com/user-attachments/assets/ecc4c76b-67c1-406f-b0ce-4037a0a1ed26" />
 
 
        
